@@ -80,6 +80,3 @@ This project demonstrates the essential data cleaning techniques required for pr
 Aspiring Data Analyst
 DecodeLabs Internship
 
-GitHub: https://github.com/YourUsername
-
-LinkedIn: https://www.linkedin.com/in/YourUsername
