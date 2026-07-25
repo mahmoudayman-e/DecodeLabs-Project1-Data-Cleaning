@@ -77,6 +77,8 @@ This project demonstrates the essential data cleaning techniques required for pr
 ## Author
 
 **Mahmoud Ayman**
+
 Aspiring Data Analyst
+
 DecodeLabs Internship
 
